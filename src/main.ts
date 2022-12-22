@@ -9,8 +9,8 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
     .setTitle('Blog Pessoal')
-    .setDescription('Projeto do Blog Pessoal')
-    .setContact('Generation Brasil','www.genbr.com.br', 'cadusilverio444@gmail.com')
+    .setDescription('Projeto Blog Pessoal')
+    .setContact('Lucas Campos','https://github.com/lucascampos99', 'lucascsp.111@gmail.com')
     .setVersion('1.o')
     .addBearerAuth()
     .build()
